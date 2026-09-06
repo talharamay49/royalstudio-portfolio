@@ -11,8 +11,8 @@ export const siteConfig = {
   name: "Royal Studio",
   tagline: "We Capture Your Memories",
   description:
-    "Luxury wedding photography and cinematic filmmaking across Pakistan. 3000+ weddings documented with timeless artistry since 2018.",
-  url: "https://royalstudio.pk",
+    "Luxury wedding photography and cinematic filmmaking across Pakistan. 3000+ weddings documented with timeless artistry since 2018",
+  url: "https://royalstudio.online",
   founders: ["Muhammad Ramzan", "Talha Ramay"],
   established: 2018,
   email: "royalstudio089@gmail.com",
